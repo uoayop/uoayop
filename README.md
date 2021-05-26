@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=uoayop&fontAlignY=35&fontSize=100&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=uoayop&fontAlignY=40&fontSize=100&desc=ꉂꉂ(ᵔᗜᵔ*)&descAlignY=65&animation=twinkling)
 
 <div align="center">
   <h4>안녕하세요! 👋</h4>
