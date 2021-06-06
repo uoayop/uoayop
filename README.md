@@ -18,7 +18,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
 	</div>
-  <h3>. . .</h3>
+ <br />
+  <h3>My Records</h3>
   <div class="media">
     <a href="https://velog.io/@uoayop/about"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white" height="25px;"/></a>
   <a href="https://www.notion.so/uoayop/996f5e0cfda44cbcaf8d6d604db590f5"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white" height="25px;"/></a>
