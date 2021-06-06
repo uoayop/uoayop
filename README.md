@@ -20,10 +20,12 @@
 	</div>
   <h3>. . .</h3>
   <div class="media">
-    <a href="https://velog.io/@uoayop/about"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-757575?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/KakaoTalk-757575?style=flat&logo=KakaoTalk&logoColor=white"/></a>
+    <a href="https://velog.io/@uoayop/about"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white" height="25px;"/></a>
+  <a href="https://www.notion.so/uoayop/996f5e0cfda44cbcaf8d6d604db590f5"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white" height="25px;"/></a>
   </div>
 </div>
+
+
+	
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
