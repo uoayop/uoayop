@@ -19,14 +19,14 @@
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
 	</div>
  <br />
-  <h3>✨ My Records ✨</h3>
-  <div class="media">
-    <a href="https://velog.io/@uoayop/about"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white" height="25px;"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-444444?style=flat&logo=Notion&logoColor=white" height="25px;"/></a>
-  </div>
-</div>
-
 
 	
+
+<br />
+<br />
+
+![uoayop's github stats](https://github-readme-stats.vercel.app/api?username=uoayop&show_icons=true)	
+</div>
+
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
