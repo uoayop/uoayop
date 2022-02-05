@@ -3,6 +3,8 @@
 <div align="center">
   <h4>안녕하세요! 👋</h4>
   풀스택 개발자를 꿈꾸는 김도연입니다.
+	
+
   <br /><br />
   <h3>Tech Stack</h3>
   <div class="stack">
@@ -21,6 +23,8 @@
  <br />
 
 	
+ <br />
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuoayop&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>
 
 <br />
 <br />
